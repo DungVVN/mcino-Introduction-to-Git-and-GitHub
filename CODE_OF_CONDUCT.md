@@ -59,12 +59,15 @@ representative at an online or offline event.
 ## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported to the community leaders responsible for enforcement at
-.
+reported by emailing the community leaders at
+code-of-conduct@example.com. Reports should include the people involved, a
+description of the incident, and any relevant links or evidence.
 All complaints will be reviewed and investigated promptly and fairly.
 
 All community leaders are obligated to respect the privacy and security of the
-reporter of any incident.
+reporter of any incident. The leaders will acknowledge receipt, assess the
+report, decide on an appropriate response under the Enforcement Guidelines,
+and communicate the outcome when appropriate.
 
 ## Enforcement Guidelines
 
